@@ -1,5 +1,12 @@
 *.aux
+*.bbl
+*.blg
 *.lof
 *.log
 *.lot
+*.nlo
+*.out
+*.run.xml
 *.toc
+*.save*
+*~
